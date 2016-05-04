@@ -1,0 +1,28 @@
+body {
+	background: #999;
+	font-family: calibri;
+}
+
+h1 {
+	padding: 10px;
+	color: #555;
+}
+
+ul {
+	font-family: timesnewroman;
+	padding: 25px;
+}
+
+a {
+	color: #229;
+	font-family: timesnewroman;
+}
+
+.googlelink {
+	color: #909;
+}
+
+#navbar {
+	background: #222;
+	color: #999;
+}

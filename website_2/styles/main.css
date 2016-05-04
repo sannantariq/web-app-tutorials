@@ -1,0 +1,58 @@
+header {
+	background: #333;
+	color: #888;
+	margin: 0;
+	padding: 15px 15px 0px 5px;
+}
+
+body {
+	margin: 0;
+}
+
+header h1 {
+	margin: 0;
+	font-family: calibri;
+	display: inline;
+}
+
+nav ul {
+	margin: 0;
+	display: inline;
+	padding-left: 15px;
+}
+
+nav ul li {
+	list-style: none;
+	display: inline-block;
+	margin: 2px;
+	background: #111;
+	padding: 5px 15px 5px 15px;
+}
+
+nav ul li a {
+	color: #999;
+}
+
+.row {
+	clear: both;
+}
+
+.row.after {
+	clear: both;
+	display: table;
+}
+
+
+.col {
+	background: #333;
+	color: #999;
+	border-radius: 5px;
+	float: left;
+	padding: 1%;
+	width: 29%;
+	margin: 1%;
+}
+
+footer {
+	clear: both;
+}
