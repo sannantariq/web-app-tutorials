@@ -1,0 +1,44 @@
+body {
+	margin: 0;
+}
+
+header {
+	margin: 0;
+	padding: 15px;
+	background-color: #222
+}
+
+h1 {
+	margin: 2%;
+	text-align: center;
+	font-family: calibri;
+	font-size: 40px;
+	color: #eee;
+}
+
+h2 {
+	font-family: calibri;
+}
+
+.body {
+	text-align: center;
+	padding: 20px;
+	margin: 1%;
+	border: 1px solid #000;
+	border-radius: 5px;
+	box-shadow: 0 0 2px;
+}
+
+p {
+	font-family: calibri;
+	font-size: 20px;
+}
+
+.inbox {
+	background: #222;
+	border: 1px solid #555;
+	border-radius: 5px;
+	font-family: verdana;
+	color: #fff;
+	padding: 5px;
+}
