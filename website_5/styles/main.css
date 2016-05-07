@@ -14,11 +14,10 @@
 
 
 .myPanelBlocks {
-	/*display: inline-block;*/
 	box-shadow: 0 0 2px #555;
-	/*align-content: center;*/
-	/*align-self: center;*/
-	margin: 2%;
+	margin: 5%;
+	display: flex;
+	justify-content: center;
 }
 
 
